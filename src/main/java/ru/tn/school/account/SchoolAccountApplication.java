@@ -1,12 +1,12 @@
-package ru.tn.service;
+package ru.tn.school.account;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ServiceTemplateApplication {
+public class SchoolAccountApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ServiceTemplateApplication.class, args);
+		SpringApplication.run(SchoolAccountApplication.class, args);
 	}
 }
